@@ -27,7 +27,8 @@ let header = $(`
   
      <li class="nav-item nav-item-hover">
 
-<iframe src="files/TBMoloi.pdf" width="100%" height="600px"></iframe>
+<a href="files/TBMoloi.pdf" target="_blank">View PDF</a>
+
 
 </li>
    <li class="nav-item">
