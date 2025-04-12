@@ -24,17 +24,17 @@ let header = $(`
 <div class="collapse navbar-collapse " id="navbarSupportedContent">
   <ul class="navbar-nav ml-auto" id = "navbar-content">
    <li class="nav-item nav-item-hover"><a class="nav-link" href="index.html">Home</a></li>
-  
-     <li class="nav-item nav-item-hover">
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="#">Experience</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="#.html">Education</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="#.html">Tools</a></li>
+   <li class="nav-item nav-item-hover"><a class="nav-link" href="#.html">Projects</a></li>
+      <li class="nav-item nav-item-hover">
 
-<a href="TBMoloi.pdf" target="_blank">View PDF</a>
-
-
-
-
-
+<a href="TBMoloi.pdf" download> Resume</a>
 
 </li>
+
+
 
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
@@ -43,6 +43,7 @@ let header = $(`
    <svg xmlns="http://www.w3.org/2000/svg" viewBox="-80 0 650 400" preserveAspectRatio="xMinYMin meet">
      <rect/>
      <g>
+
        <g id="man-bike">
          <path id="Vector_2" opacity="0.1" d="M201.091 276.806L179.893 255.76L173.269 262.513L194.467 283.559L201.091 276.806Z" fill="black" />
          <path id="Vector_3" opacity="0.05" d="M269.455 177.344C269.455 177.344 326.601 189.531 325.92 197.189C325.238 204.847 268.194 187.328 268.194 187.328C268.194 187.328 264.731 181.519 269.455 177.344Z" fill="black" />
