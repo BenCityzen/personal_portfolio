@@ -27,7 +27,8 @@ let header = $(`
   
      <li class="nav-item nav-item-hover">
 
-<a href="files/TBMoloi.pdf" target="_blank">View PDF</a>
+<embed src="files/TBMoloi.pdf" type="application/pdf" width="100%" height="600px">
+
 
 
 
