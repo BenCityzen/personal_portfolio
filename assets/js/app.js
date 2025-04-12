@@ -27,7 +27,8 @@ let header = $(`
   
      <li class="nav-item nav-item-hover">
 
-<a href="TBMoloi.pdf" download> Resume</a></li>
+<embed src="files/TBMoloi.pdf" type="application/pdf" width="100%" height="600px">
+
    <li class="nav-item">
    <input type="checkbox" id="dark_toggler" class="dark_toggler" aria-label="Toggle Light Mode" onclick="toggle_light_mode()" checked>
    </li>
